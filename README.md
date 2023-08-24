@@ -1,4 +1,4 @@
-# Diabetes Prediction
+# Diabetes Prediction 🏥
 
 # Analysis Expectation
 A machine learning model is requested to be developed that can predict whether individuals have diabetes or not when their features are specified.
@@ -15,5 +15,6 @@ The dataset is a subset of a large dataset maintained by the National Institute 
 - **BMI:** Body Mass Index
 - **Age:** Age (years)
 - **Outcome:** Whether the individual has the disease (1) or not (0)
+---
+[Kaggle Account](https://www.kaggle.com/sudeates)
 
-  
