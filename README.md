@@ -1,5 +1,5 @@
 # Diabetes Prediction 🏥
-
+![Image by <a href="https://pixabay.com/users/stevepb-282134/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=528678">Steve Buissinne</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=528678">Pixabay</a>](https://github.com/sudeatesoglu/Pima_Indians_Diabetes_Prediction/assets/106230756/13c1b2a9-eea5-447c-9ca2-dd4be985e57e)
 # Analysis Expectation
 A machine learning model is requested to be developed that can predict whether individuals have diabetes or not when their features are specified.
 
